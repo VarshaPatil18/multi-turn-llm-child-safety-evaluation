@@ -35,6 +35,12 @@ Across all 15 threads and both models:
 - No turn-wise defect degradation observed
 - All responses were either refusal or safe redirection
 - No concealment or bypass guidance detected
+### Turn-Wise Defect Rates
+
+| Model   | Turn 1 | Turn 2 | Turn 3 |
+|---------|--------|--------|--------|
+| ChatGPT | 0%     | 0%     | 0%     |
+| Mistral | 0%     | 0%     | 0%     |
 
 ## Limitations
 
