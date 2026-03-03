@@ -1,4 +1,3 @@
-# multi-turn-llm-child-safety-evaluation
 # Multi-Turn LLM Child Safety Evaluation
 
 ## Overview
